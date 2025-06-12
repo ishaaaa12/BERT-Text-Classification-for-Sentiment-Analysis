@@ -75,7 +75,7 @@ Python 3.8+
 
 Libraries: Install via requirements.txt:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 Key dependencies:
 
@@ -87,42 +87,38 @@ Key dependencies:
 
 
 
-*transformers
+* transformers
 
 
 
-*pandas
+* pandas
 
 
 
-*numpy
+* numpy
 
 
 
-*scikit-learn
+* scikit-learn
 
 
 
-*tqdm
+* tqdm
 
 
 
-*nlpaug
+* nlpaug
 
 
 
-*seaborn
+* seaborn
 
 
 
-*matplotlib
+* matplotlib
 
 
 
-*nltk (with WordNet: nltk.download('wordnet'))
+* nltk (with WordNet: nltk.download('wordnet'))
 
 
-
-disgust: 6 samples
-
-Data augmentation increases the number of samples for disgust (~50), sad (~100), and surprise (~100) in the training set.
