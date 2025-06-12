@@ -75,7 +75,7 @@ Python 3.8+
 
 Libraries: Install via requirements.txt:
 
-```pip install -r requirements.txt```
+```bash\npip install -r requirements.txt\n```
 
 Key dependencies:
 
