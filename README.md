@@ -1,10 +1,10 @@
 # BERT-Text-Classification-for-Sentiment-Analysis
 
-Overview
+*OVERVIEW*
 
 This project implements a BERT-based text classification model for sentiment analysis using the SMILE Twitter dataset. The model classifies tweets into six emotion categories: happy, not-relevant, angry, disgust, sad, and surprise. The dataset is highly imbalanced, so techniques like data augmentation (using nlpaug) and class-weighted loss are employed to improve performance on minority classes. The model is built using PyTorch and the Hugging Face Transformers library, with evaluation metrics including macro F1 score, precision, recall, and per-class accuracy.
 
-Features
+*FEATURES*
 
 
 
@@ -33,7 +33,7 @@ Evaluation: Reports per-class metrics (accuracy, precision, recall, F1) and visu
 Reproducibility: Sets random seeds for consistent results.
 
 
-Dataset
+*DATASET*
 
 The dataset (smile-annotations-final.csv) contains tweets labeled with emotions. After preprocessing, the class distribution is:
 
