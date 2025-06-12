@@ -83,7 +83,7 @@ Key dependencies:
 
 
 
-*torch
+* torch
 
 
 
