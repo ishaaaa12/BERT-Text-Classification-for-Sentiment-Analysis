@@ -49,7 +49,7 @@ The dataset (smile-annotations-final.csv) contains tweets labeled with emotions.
 
 
 
-<h1>angry:</h1> 57 samples
+<h5>angry:</h5> 57 samples
 
 
 
@@ -57,7 +57,8 @@ The dataset (smile-annotations-final.csv) contains tweets labeled with emotions.
 
 
 
-<h1>sad:</h1> 32 samples
+<h5>sad:</h5> 32 samples
+
 
 Data augmentation increases the number of samples for disgust (~50), sad (~100), and surprise (~100) in the training set.
 
