@@ -41,11 +41,11 @@ The dataset (smile-annotations-final.csv) contains tweets labeled with emotions.
 
 
 
-<h1>happy:</h1> 1137 samples
+<h5>happy:</h5> 1137 samples
 
 
 
-<h1>not-relevant:</h1> 214 samples
+<h5>not-relevant:</h5> 214 samples
 
 
 
